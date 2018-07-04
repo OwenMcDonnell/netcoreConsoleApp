@@ -6,7 +6,8 @@ namespace netcoreConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Test app");
+            Console.ReadLine();
         }
     }
 }
