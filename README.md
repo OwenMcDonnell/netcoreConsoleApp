@@ -1,0 +1,2 @@
+# netcoreConsoleApp
+test app
